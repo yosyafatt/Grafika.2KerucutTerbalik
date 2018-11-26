@@ -1,0 +1,35 @@
+﻿  Source.cpp
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(86): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(92): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(94): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(101): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(102): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(106): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(143): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(144): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(166): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(167): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(169): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(200): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(204): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(205): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(206): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(210): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(211): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(212): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(226): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(227): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(229): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(261): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(262): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(263): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(267): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(268): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\yosyafat\onedrive\grafika komputer\projects\kerucut2\kerucut2\source.cpp(269): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Kerucut2.vcxproj -> C:\Users\Yosyafat\OneDrive\Grafika Komputer\Projects\Kerucut2\Debug\Kerucut2.exe
